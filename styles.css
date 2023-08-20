@@ -1,0 +1,15 @@
+body {
+  background: linear-gradient(90deg, #0700b8 0%, #00ff88 100%);
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+h1 {
+  background-color: darkcyan;
+  text-align: center;
+  font-size: 37px;
+  font-weight: 800;
+}
+
+a {
+  color: rgb(177, 147, 206);
+}
