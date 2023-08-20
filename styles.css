@@ -10,6 +10,17 @@ h1 {
   font-weight: 800;
 }
 
+h2 {
+  color: coral;
+}
+
+p,
+ul,
+ol,
+li {
+  color: white;
+}
+
 a {
   color: rgb(177, 147, 206);
 }
