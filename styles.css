@@ -1,5 +1,6 @@
 body {
   background: linear-gradient(90deg, #0700b8 0%, #00ff88 100%);
+  background-repeat: repeat;
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
 
@@ -27,7 +28,7 @@ a {
 }
 
 .recipe-image {
-  width: 500px;
+  width: 400;
   height: auto;
 }
 
