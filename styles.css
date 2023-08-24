@@ -13,6 +13,7 @@ h1 {
 
 h2 {
   color: coral;
+  width: fit-content;
 }
 
 p,
@@ -21,6 +22,7 @@ ol,
 li {
   color: white;
   width: 1400px;
+  width: fit-content;
 }
 
 a {
@@ -54,4 +56,11 @@ a {
 
 .rounded-corners {
   border-radius: 12px;
+}
+
+.content-box {
+  background-color: rgba(176, 196, 222, 0.4);
+  padding: 8px;
+  width: fit-content;
+  margin: 8px;
 }
