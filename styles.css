@@ -44,3 +44,14 @@ a {
   margin: 4px 2px;
   cursor: pointer;
 }
+
+.recipe-list-box {
+  background-color: rgba(176, 196, 222, 0.4);
+  width: 450px;
+  height: 700px;
+  padding: 10px;
+}
+
+.rounded-corners {
+  border-radius: 12px;
+}
